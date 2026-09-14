@@ -8,6 +8,8 @@ int main() {
  cout << "Name: Ronamae Mier" << endl;
  cout << "Course: BSIT" << endl;
  cout << "Year Level: 2" << endl;
+ cout << "Student ID: 425001226" << endl;
+ cout << "Email: 425001226@ntc.edu.ph" << endl;
  cout << endl;
  cout << "Welcome to the system!" << endl;
  return 0;
